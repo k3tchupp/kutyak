@@ -1,0 +1,6 @@
+C:\Users\szima.akos\source\repos\kuytak\kuytak\obj\Debug\kuytak.csproj.AssemblyReference.cache
+C:\Users\szima.akos\source\repos\kuytak\kuytak\obj\Debug\kuytak.csproj.SuggestedBindingRedirects.cache
+C:\Users\szima.akos\source\repos\kuytak\kuytak\obj\Debug\MainWindow.g.cs
+C:\Users\szima.akos\source\repos\kuytak\kuytak\obj\Debug\App.g.cs
+C:\Users\szima.akos\source\repos\kuytak\kuytak\obj\Debug\kuytak_MarkupCompile.cache
+C:\Users\szima.akos\source\repos\kuytak\kuytak\obj\Debug\kuytak_MarkupCompile.lref
